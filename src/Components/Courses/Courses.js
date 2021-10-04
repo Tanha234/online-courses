@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
+import Footer from '../Footer/Footer';
 
 
 
@@ -23,10 +24,11 @@ const Courses = () => {
             <Row xs={1} md={3} className="g-20 cards">
           {
               courses.map(course=><Course 
-                key={course.key}
+                key={course.id}
                 course={course}></Course>)
           }
           </Row>
+         
           </div>
           
          

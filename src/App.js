@@ -2,12 +2,14 @@
 import { BrowserRouter,Switch,Route } from 'react-router-dom';
 import './App.css';
 import About from './Components/About/About';
+import Confirm from './Components/Confirm/Confirm';
 import Contact from './Components/Contact/Contact';
 import Courses from './Components/Courses/Courses';
 import Header from './Components/Header/Header';
 
 import Home from './Components/Home/Home';
 import PageNotFound from './Components/PageNotFound/PageNotFound';
+import Review from './Components/Review/Review';
 import Signup from './Components/Signup/Signup';
 
 
@@ -42,6 +44,12 @@ function App() {
         <Route path="/singup">
           <Signup></Signup>
           </Route>
+          <Route path="/review">
+            <Review></Review>
+            </Route>
+            <Route path="/confirm">
+              <Confirm></Confirm>
+              </Route>
         <Route path="/*">
           <PageNotFound></PageNotFound>
 

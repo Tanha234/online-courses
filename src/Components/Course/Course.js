@@ -1,11 +1,20 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import { useHistory } from 'react-router';
 import '../Course/Course.css'
 
 
 
 const Course = (props) => {
+  let history = useHistory();
     const{courseImg,title,cost,star,learners,duration}=props.course;
+    function handleClick() {
+      history.push("/review");
+    }
+    function handle() {
+      history.push("/confirm");
+    }
+  
     return (
         <div>
              <Col>
@@ -25,8 +34,8 @@ const Course = (props) => {
                     <Card.Text>
                     Learners:{learners}
                     </Card.Text>
-                    <button className="ms-3 px-3" >Details</button>
-                    <button className="ms-3 px-3">Confirm</button>
+                    <button className="ms-3 px-3" onClick={handleClick}>Details</button>
+                    <button className="ms-3 px-3" onClick={handle}>Confirm</button>
                   </Card.Body>
                  
                 </Card>
