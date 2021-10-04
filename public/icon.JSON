@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-gk4fGje_Mnkdlf5__MhmPFfL9Jbk49UvQ&usqp=CAU",
+      "item": "Music"
+    },
+    {
+      "id": 2,
+      "icon": "https://image.shutterstock.com/image-vector/cooking-pot-pink-rgb-color-260nw-1670281639.jpg",
+      "item": "Cooking"
+    },
+    {
+      "id": 3,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLjofN7odyW1K8yZzfRqYgEueCrE89MDzBA&usqp=CAU",
+      "item": "Mathematices"
+    },
+    {
+      "id": 4,
+      "icon": "https://png.pngtree.com/png-vector/20190806/ourmid/pngtree-local-lan-connection-sync-computer-flat-color-icon-vector-png-image_1651466.jpg",
+      "item": "Programming"
+    },
+    {
+      "id": 5,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnGlTAAQlA44w136D0iAzllrBhH3xdcA1xA&usqp=CAU",
+      "item": "Design"
+    },
+    {
+      "id": 6,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_i9X4TOBHjYIutB-eyg1OqyprAnKJrxzrPw&usqp=CAU",
+      "item": "Photography"
+    },
+    {
+      "id": 7,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDylj78LJv5-6VwFLdIFrXXb2gC19_1-3SMA&usqp=CAU",
+      "item": "Business"
+    },
+    {
+      "id": 8,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFAnkf1Ah3gcKI3mmXp0-qgwHgM_gBcMio_I6HTqSlqulzHAU8V745Jq4kqYZjkwgO2KA&usqp=CAU",
+      "item": "Journalism"
+    }
+  ]

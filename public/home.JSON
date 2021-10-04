@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Business & Management",
+      "cost": 2000,
+      "duration": "10hours",
+      "star": 4,
+      "learners": 100,
+      "courseImg": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2020/06/22211858/business-management-team.jpg",
+      "istructorName": "Dorisha Wilson",
+      "instructorImg": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Creative arts and media",
+      "cost": 3000,
+      "duration": "25hours",
+      "star": 6,
+      "learners": 200,
+      "courseImg": "https://leverageedu.com/blog/wp-content/uploads/2019/10/Types-of-Mass-Media.jpg",
+      "istructorName": "Sona singh",
+      "instructorImg": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130289814%2F0x0.jpg"
+      
+    },
+    
+    {
+      "id": 4,
+      "title": "Photography",
+      "cost": 600,
+      "duration": "36hours",
+      "star": 6,
+      "learners": 200,
+      "courseImg": "https://thumbs.dreamstime.com/b/photographer-girl-shooting-photography-icons-young-86211063.jpg",
+      "istructorName": "Aresssi Roy",
+      "instructorImg": "https://previews.123rf.com/images/serezniy/serezniy1809/serezniy180924185/109660114-young-male-teacher-in-classroom.jpg"
+    },
+    
+    
+    {
+      "id": 6,
+      "title": "Cyber Security",
+      "cost": 800,
+      "duration": "1month",
+      "star": 9,
+      "learners": 400,
+      "courseImg": "https://s27389.pcdn.co/wp-content/uploads/2021/04/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpeg",
+      "istructorName": "John Arura",
+      "instructorImg": "https://image.shutterstock.com/image-photo/portrait-confident-african-american-male-260nw-388588375.jpg"
+    }
+  ]

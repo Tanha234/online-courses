@@ -1,0 +1,11 @@
+.body-info{
+    background-color: rgba(204, 179, 179, 0.918);
+    height: 548px;
+}
+
+.btn-regular{
+    height: 50px;
+    width: 140px;
+    background-color: rgb(216, 153, 130);
+    margin-bottom: 20px;
+}

@@ -1,0 +1,13 @@
+.cards{
+    height: 200px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 30px;
+    margin-bottom: 300px;
+    
+}
+.course-text{
+    color:black;
+    font-family: cursive;
+    font-size: 30px;
+}

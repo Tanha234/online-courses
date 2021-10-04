@@ -1,0 +1,233 @@
+[
+    {
+      "id": 1,
+      "title": "Business & Management",
+      "cost": 2000,
+      "duration": "10hours",
+      "star": 4,
+      "learners": 100,
+      "courseImg": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2020/06/22211858/business-management-team.jpg",
+      "istructorName": "Doris Wilson",
+      "instructorImg": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Creative arts and media",
+      "cost": 3000,
+      "duration": "25hours",
+      "star": 6,
+      "learners": 200,
+      "courseImg": "https://leverageedu.com/blog/wp-content/uploads/2019/10/Types-of-Mass-Media.jpg",
+      "istructorName": "sona singh",
+      "instructorImg": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130289814%2F0x0.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Helathcare & medicine",
+      "cost": 400,
+      "duration": "5hours",
+      "star": 7,
+      "learners": 50,
+      "courseImg": "https://static3.bigstockphoto.com/3/1/2/large1500/213017662.jpg",
+      "istructorName": "Ruhan singh",
+      "instructorImg": "https://static.jobscan.co/blog/uploads/jobs-for-former-teachers.png"
+    },
+    {
+      "id": 4,
+      "title": "Photography",
+      "cost": 600,
+      "duration": "36hours",
+      "star": 6,
+      "learners": 200,
+      "courseImg": "https://thumbs.dreamstime.com/b/photographer-girl-shooting-photography-icons-young-86211063.jpg",
+      "istructorName": "SFGHH",
+      "instructorImg": "https://previews.123rf.com/images/serezniy/serezniy1809/serezniy180924185/109660114-young-male-teacher-in-classroom.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Customer service skill",
+      "cost": 60,
+      "duration": "4hours",
+      "star": 2,
+      "learners": 40,
+      "courseImg": "https://thumbs.dreamstime.com/z/customer-service-skills-diagram-85677045.jpg",
+      "istructorName": "sdfsfedfre",
+      "instructorImg": "https://image.freepik.com/free-photo/smiley-teacher-holding-bunch-books-apple-with-copy-space_23-2148668527.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cyber Security",
+      "cost": 800,
+      "duration": "1month",
+      "star": 9,
+      "learners": 400,
+      "courseImg": "https://s27389.pcdn.co/wp-content/uploads/2021/04/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpeg",
+      "istructorName": "hjjjkjk",
+      "instructorImg": "https://image.shutterstock.com/image-photo/portrait-confident-african-american-male-260nw-388588375.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Web design",
+      "cost": 560,
+      "duration": "48hours",
+      "star": 6,
+      "learners": 678,
+      "courseImg": "https://www.dreamhost.com/blog/wp-content/uploads/2018/09/elements-web-design-opt.jpg",
+      "istructorName": "hhhjjjj",
+      "instructorImg": "https://media.istockphoto.com/photos/young-male-educator-stands-proudly-in-school-building-picture-id1023229588?k=20&m=1023229588&s=612x612&w=0&h=frmAGI7ieDZmnqHu1hVRW-PRgBj7YFojTlh8f_dl3BU="
+    },
+    {
+      "id": 8,
+      "title": "Economics",
+      "cost": 300,
+      "duration": "5hours",
+      "star": 5,
+      "learners": 340,
+      "courseImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeg5FfE1EdbOk-NwPh9py1p5mUGnjD17evFSKVuwM2ANahNw_qGfQl5f-0hEkO0MdJPO4&usqp=CAU",
+      "istructorName": "ghhjhjh",
+      "instructorImg": "https://www.gannett-cdn.com/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2017/07/10/USATODAY/USATODAY/636353007248947232-BTS-ELEM-MALE-TEACHERS-1.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "id": 9,
+      "title": "Diploma and Mental Health",
+      "cost": 400,
+      "duration": "8hours",
+      "star": 5,
+      "learners": 67,
+      "courseImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpUNnjhEvQmI5g-8DFbn7xZ_mP5MdC9ej5g&usqp=CAU",
+      "istructorName": "hyujjj",
+      "instructorImg": "https://img.freepik.com/free-photo/smiley-teacher-standing-classroom_23-2148668557.jpg?size=626&ext=jpg"
+    },
+    {
+      "id": 10,
+      "title": "Toursim",
+      "cost": 500,
+      "duration": "48hours",
+      "star": 8,
+      "learners": 300,
+      "courseImg": "https://leverageedu.com/blog/wp-content/uploads/2019/10/Career-in-Travel-and-Tourism.jpg",
+      "istructorName": "hhhhh",
+      "instructorImg": "https://static1.bigstockphoto.com/5/3/2/large1500/235541716.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Literature",
+      "cost": 500,
+      "duration": "34hours",
+      "star": 8,
+      "learners": 67,
+      "courseImg": "https://i2.wp.com/literacle.com/wp-content/uploads/2018/07/stock-vector-literature-hand-drawn-vector-illustration-with-doodle-icons-images-and-objects-arranged-in-a-circle-477961258.jpg?fit=450%2C444&ssl=1",
+      "istructorName": "gghhhh",
+      "instructorImg": "https://previews.123rf.com/images/tonefotografia/tonefotografia1705/tonefotografia170501776/78618609-beautiful-teacher-woman-holding-book-on-grey-background.jpg"
+    },
+    {
+      "id": 12,
+      "title": "History",
+      "cost": 60,
+      "duration": "3hours",
+      "star": 5,
+      "learners": 70,
+      "courseImg": "https://thumbs.dreamstime.com/b/history-doodles-lettering-white-background-137829155.jpg",
+      "istructorName": "uu",
+      "instructorImg": "https://thumbs.dreamstime.com/z/young-male-teacher-book-standing-classroom-113764182.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Computer and science",
+      "cost": 500,
+      "duration": "36hours",
+      "star": 8,
+      "learners": 300,
+      "courseImg": "https://images5.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg",
+      "istructorName": "ooo",
+      "instructorImg": "https://static1.bigstockphoto.com/5/3/2/large1500/235542859.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Law",
+      "cost": 90,
+      "duration": "8hours",
+      "star": 7,
+      "learners": 230,
+      "courseImg": "https://internationaljournalofresearch.files.wordpress.com/2020/08/20150929184415-law-and-justice-patent.jpeg",
+      "istructorName": "hhhhh",
+      "instructorImg": "https://image.freepik.com/free-photo/front-view-smiley-female-teacher-posing-front-blackboard_23-2148848327.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Diploma in statistics",
+      "cost": 340,
+      "duration": "7hours",
+      "star": 7,
+      "learners": 45,
+      "courseImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dV_0y3pJafoeF5VeHoTmn7mD35p5tY5Plg&usqp=CAU",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 16,
+      "title": "English",
+      "cost": 940,
+      "duration": "7hours",
+      "star": 7,
+      "learners": 405,
+      "courseImg": "https://uconsulting.nl/wp-content/uploads/English-flow-1.jpg",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Journalism",
+      "cost": 140,
+      "duration": "7hours",
+      "star": 7,
+      "learners": 205,
+      "courseImg": "https://media-eng.dhakatribune.com/uploads/2019/12/bigstock-journalism-word-cloud-collage-249132760-1575887508751.jpg",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Accounting",
+      "cost": 840,
+      "duration": "7hours",
+      "star": 3,
+      "learners": 605,
+      "courseImg": "https://www.techfunnel.com/wp-content/uploads/2020/08/cloud-accounting.png",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Information & Teacnology",
+      "cost": 80,
+      "duration": "7hours",
+      "star": 3,
+      "learners": 605,
+      "courseImg": "https://www.analyticssteps.com/backend/media/thumbnail/1209855/8427475_1603447236_IT%20(1).jpg",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Research",
+      "cost": 820,
+      "duration": "9hours",
+      "star": 3,
+      "learners": 605,
+      "courseImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuDbN09IjTQmMFcmdFwN2qDpzNGIMl406w&usqp=CAU",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Social Science",
+      "cost": 820,
+      "duration": "9hours",
+      "star": 3,
+      "learners": 605,
+      "courseImg": "https://4.bp.blogspot.com/-MSsA23zSBuw/WuGglw_g8xI/AAAAAAAAH78/rUn1NEJ0Ea8fZi_0O1ehfjwxVM94HWMAwCLcBGAs/w1200-h630-p-k-no-nu/scopus-social-science.jpg",
+      "istructorName": "hhhhhh",
+      "instructorImg": "https://thumbs.dreamstime.com/z/male-teacher-sitting-desk-classroom-15538155.jpg"
+    }
+  ]

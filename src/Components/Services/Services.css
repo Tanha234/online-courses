@@ -1,0 +1,14 @@
+.home-img{
+    height:150px;
+    width:50px
+}
+.card-img{
+    height: 250px;
+    width:30px;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 4px 3px 8px 4px  rgba(173, 150, 130, 0.589);;
+  
+
+}

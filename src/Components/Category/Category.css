@@ -1,0 +1,11 @@
+.category-img{
+    height: 100px;
+    width: 70px;
+    border-radius: 75%;
+}
+.category{
+    height: 150px;
+    margin-top: 50px;
+    width:200px;
+    box-shadow: 4px 3px 4px 4px  rgba(240, 239, 238, 0.979);
+}
