@@ -21,7 +21,7 @@ const Courses = () => {
             <div>
             <h1 className="mb-3 mt-3">Our top-rated Courses </h1>
             <input className="w-50 mt-3" placeholder="Find your course" type="text"></input>
-            <Row xs={1} md={3} className="g-20 cards">
+            <Row xs={1} md={3} className="cards mx-auto h-100 w-75">
           {
               courses.map(course=><Course 
                 key={course.id}

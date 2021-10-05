@@ -11,6 +11,7 @@ import Footer from '../Footer/Footer';
 const Home = () => {
     return (
         <div className="home">
+           
             <Banner></Banner>
              
             <Service></Service>

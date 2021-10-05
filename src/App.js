@@ -11,6 +11,7 @@ import Home from './Components/Home/Home';
 import PageNotFound from './Components/PageNotFound/PageNotFound';
 import Review from './Components/Review/Review';
 import Signup from './Components/Signup/Signup';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 

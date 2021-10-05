@@ -16,7 +16,7 @@ const Teacher = () => {
         <div>
             <h1 className="course-text">Our top Teachers </h1>
             {
-                <Row xs={1} md={4} className="g-20 cards">
+                <Row xs={1} md={4} className="g-20 cards mx-auto">
                     {
                       teacher.map(teachers=><Teachers
                       key={teachers.id}

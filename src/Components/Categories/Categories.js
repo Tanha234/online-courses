@@ -17,7 +17,7 @@ const Categories = () => {
         <div>
             
             <h1 className="course-text">Top Category</h1>
-            <Row xs={1} md={4} className="g-20 cards">
+            <Row xs={1} md={4} className=" cards mx-auto">
             {
                 categories.map(category=><Category 
                     key={category.id}

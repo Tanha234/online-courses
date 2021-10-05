@@ -8,7 +8,7 @@ const Teachers = (props) => {
         <div>
              <Col>
                 <Card className="card-img">
-                  <Card.Img  className="home-img" variant="top"  src={instructorImg} />
+                  <Card.Img variant="top"  src={instructorImg} />
                   <Card.Body>
                     <Card.Title>{istructorName}</Card.Title>
                     <Card.Text>{title}</Card.Text>
