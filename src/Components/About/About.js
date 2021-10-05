@@ -2,7 +2,7 @@ import React from 'react';
 import about from '../../about.png'
 import '../About/About.css'
 import pre from'../../pre.png'
-import Footer from '../Footer/Footer';
+
 
 
 const About = () => {
@@ -52,7 +52,7 @@ discussions, etc. Students and faculty can also communicate through the discussi
            </div>
 
        </div>
-       <Footer></Footer>
+       
             
         </div>
     );

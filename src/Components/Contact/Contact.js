@@ -1,6 +1,6 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import Footer from '../Footer/Footer';
+
 
 import './Conatct.css'
 
@@ -28,7 +28,7 @@ const Contact = () => {
                 </div>
                 
                  </div> 
-                <Footer></Footer>
+                
         </div>
     );
 };

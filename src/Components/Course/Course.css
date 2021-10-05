@@ -1,4 +1,12 @@
 .offer{
     margin-top: 50px;
-    box-shadow: 4px 3px 8px 4px  rgba(180, 137, 98, 0.589);;
+    box-shadow: 4px 3px 8px 4px  rgba(82, 42, 5, 0.589);;
+}
+.button{
+    background-color: cornsilk;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+.background{
+    background-color: rgb(190, 186, 186);
 }

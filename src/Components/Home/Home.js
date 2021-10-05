@@ -5,7 +5,7 @@ import Categories from '../Categories/Categories';
 import Service from '../Service/Service';
 import Teacher from '../Teacher/Teacher';
 import '../Home/Home.css'
-import Footer from '../Footer/Footer';
+
 
 
 const Home = () => {
@@ -21,7 +21,7 @@ const Home = () => {
         
        <Categories></Categories>
        <Teacher></Teacher>
-       <Footer></Footer>
+       
       
         
         

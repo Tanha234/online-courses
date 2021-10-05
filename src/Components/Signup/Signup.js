@@ -1,7 +1,7 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
 import signin from '../../signin.png'
-import Footer from '../Footer/Footer';
+
 
 import '../Signup/signup.css'
 
@@ -42,7 +42,7 @@ const Signup = () => {
         </div>
         
         </div>
-        <Footer></Footer>
+        
         
         </div>
     );

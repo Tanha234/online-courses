@@ -12,6 +12,7 @@ import PageNotFound from './Components/PageNotFound/PageNotFound';
 import Review from './Components/Review/Review';
 import Signup from './Components/Signup/Signup';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from './Components/Footer/Footer';
 
 
 
@@ -21,6 +22,8 @@ function App() {
      
       <BrowserRouter>
       <Header></Header>
+      
+      
       <Switch>
         <Route exact path="/home">
           <Home></Home>
@@ -56,7 +59,12 @@ function App() {
 
         </Route>
       </Switch>
+      <Route>
+        <Footer></Footer>
+      </Route>
+      
       </BrowserRouter>
+      
       
     </div>
   );
