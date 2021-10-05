@@ -16,7 +16,7 @@ const Categories = () => {
     return (
         <div>
             
-            <h1 className="course-text">Top Category</h1>
+            <h1 className="course-text my-5">Top Category</h1>
             <Row xs={1} md={4} className=" cards mx-auto">
             {
                 categories.map(category=><Category 

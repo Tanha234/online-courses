@@ -16,7 +16,7 @@ const Service = () => {
     
     return (
         <div>
-            <h1 className="course-text">Popular Courses </h1>
+            <h1 className="course-text my-5">Popular Courses </h1>
             
 <div className="cards">
     <Row xs={1} md={4} >

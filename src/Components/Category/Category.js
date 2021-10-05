@@ -8,7 +8,7 @@ const Category = (props) => {
         <div>
              <Col>
                 <Card className="category">
-                  <Card.Img variant="top" className="category-img" src={icon} />
+                  <Card.Img variant="top" className="category-img mx-auto" src={icon} />
                   <Card.Body>
                     <Card.Title>{item}</Card.Title>
                     

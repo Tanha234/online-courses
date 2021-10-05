@@ -14,7 +14,7 @@ const Teacher = () => {
     },[])
     return (
         <div>
-            <h1 className="course-text">Our top Teachers </h1>
+            <h1 className="course-text my-5">Our top Teachers </h1>
             {
                 <Row xs={1} md={4} className="g-20 cards mx-auto">
                     {

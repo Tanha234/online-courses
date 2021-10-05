@@ -11,16 +11,15 @@
       "instructorImg": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg"
     },
     {
-      "id": 2,
-      "title": "Creative arts and media",
-      "cost": 3000,
-      "duration": "25hours",
-      "star": 6,
-      "learners": 200,
-      "courseImg": "https://leverageedu.com/blog/wp-content/uploads/2019/10/Types-of-Mass-Media.jpg",
-      "istructorName": "Sona singh",
-      "instructorImg": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130289814%2F0x0.jpg"
-      
+      "id": 14,
+      "title": "Law",
+      "cost": 90,
+      "duration": "8hours",
+      "star": 7,
+      "learners": 230,
+      "courseImg": "https://internationaljournalofresearch.files.wordpress.com/2020/08/20150929184415-law-and-justice-patent.jpeg",
+      "istructorName": "Parthana Sekh",
+      "instructorImg": "https://image.freepik.com/free-photo/front-view-smiley-female-teacher-posing-front-blackboard_23-2148848327.jpg"
     },
     
     {
@@ -37,14 +36,14 @@
     
     
     {
-      "id": 6,
-      "title": "Cyber Security",
-      "cost": 800,
-      "duration": "1month",
-      "star": 9,
-      "learners": 400,
-      "courseImg": "https://s27389.pcdn.co/wp-content/uploads/2021/04/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpeg",
-      "istructorName": "John Arura",
-      "instructorImg": "https://image.shutterstock.com/image-photo/portrait-confident-african-american-male-260nw-388588375.jpg"
+      "id": 7,
+      "title": "Web design",
+      "cost": 560,
+      "duration": "48hours",
+      "star": 6,
+      "learners": 678,
+      "courseImg": "https://www.dreamhost.com/blog/wp-content/uploads/2018/09/elements-web-design-opt.jpg",
+      "istructorName": "Mr.James Bos",
+      "instructorImg": "https://media.istockphoto.com/photos/young-male-educator-stands-proudly-in-school-building-picture-id1023229588?k=20&m=1023229588&s=612x612&w=0&h=frmAGI7ieDZmnqHu1hVRW-PRgBj7YFojTlh8f_dl3BU="
     }
   ]

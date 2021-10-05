@@ -19,7 +19,7 @@ const Course = (props) => {
         <div>
              <Col>
                 <Card className="offer">
-                  <Card.Img className="w-100 h-50" variant="top"  src={courseImg} />
+                  <Card.Img className="w-100 h-100" variant="top"  src={courseImg} />
                   <Card.Body>
                     <Card.Title>{title}</Card.Title>
                     <Card.Text>

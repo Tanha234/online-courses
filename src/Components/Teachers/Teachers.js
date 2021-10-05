@@ -7,7 +7,7 @@ const Teachers = (props) => {
     return (
         <div>
              <Col>
-                <Card className="card-img">
+                <Card className="card-img my-5">
                   <Card.Img variant="top"  src={instructorImg} />
                   <Card.Body>
                     <Card.Title>{istructorName}</Card.Title>
