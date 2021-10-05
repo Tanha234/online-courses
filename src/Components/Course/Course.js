@@ -36,7 +36,7 @@ const Course = (props) => {
                     Learners:{learners}
                     </Card.Text>
                     <button className="ms-3 px-4 py-1 button" onClick={handleClick}>Details</button>
-                    <button className="ms-3 px-4 py-1 button" onClick={handle}>Confirm</button>
+                    <button className="ms-3 px-4 py-1 button" onClick={handle}>Purchase</button>
                   </Card.Body>
                  
                 </Card>
